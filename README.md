@@ -8,4 +8,4 @@ MATT utilizes an RGB segmentation mask from SAM and transposes the edge outline 
 
 ![de:hub.de-Projekt](figures/figure2.png)
 ![de:hub.de-Projekt](figures/altitude_performance_subplot.png)
-![de:hub.de-Projekt](figures/grouped_quality_plot.png)
+![de:hub.de-Projekt](figures/time_of_day_performance_subplot.png)
